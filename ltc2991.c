@@ -268,6 +268,6 @@ static struct i2c_driver ltc2991_driver = {
 
 module_i2c_driver(ltc2991_driver);
 
-MODULE_AUTHOR("Matt Weber <Matthew.Weber@rockwellcollins.com>");
+MODULE_AUTHOR("abc <abc@rockwellcollins.com>");
 MODULE_DESCRIPTION("LTC2991 driver");
 MODULE_LICENSE("GPL");
